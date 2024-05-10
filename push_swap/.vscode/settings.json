@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/visual/build/_deps/imgui-src/examples/example_glfw_vulkan",
+    "files.associations": {
+        "push_swap.h": "c"
+    }
+}
